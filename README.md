@@ -1,5 +1,5 @@
 # Doughnut-Preview
-Doughnut Preview created in C
+🍩🍩Doughnut Preview created in C🍩🍩
 
 Copy the code and use the replit online IDE for a preview with a better accuracy
 <br>
