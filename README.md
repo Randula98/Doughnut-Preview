@@ -2,6 +2,7 @@
 Doughnut Preview created in C
 
 Copy the code and use the replit online IDE for a preview with a better accuracy
+<br>
 https://replit.com/@Randula98/doughnut
 ##
 
